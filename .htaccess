@@ -1,0 +1,70 @@
+RewriteEngine on
+
+
+# korisnički deo sajta
+
+
+RewriteRule ^početna-strana index.php [NC,L]
+RewriteRule ^registracija register.php [NC,L]
+RewriteRule ^prijavljivanje login.php [NC,L]
+RewriteRule ^pretraga-sajta search.php [NC,L]
+RewriteRule ^dodaj-oglas add-ads.php [NC,L]
+RewriteRule ^o-nama about-us.php [NC,L]
+RewriteRule ^kontaktirajte-nas contact-us.php [NC,L]
+RewriteRule ^odjavi-se logout.php [NC,L]
+RewriteRule ^strana-nije-pronađena file-not-found.php [NC,L]
+RewriteRule ^oglas/([0-9]+) view-add.php?id=$1 [NC,L]
+RewriteRule ^kategorija/([0-9]+) view-category.php?id=$1 [NC,L]
+RewriteRule ^poruke messages.php [NC,L]
+RewriteRule ^zaboravljena-šifra reset-password.php [NC,L]
+RewriteRule ^moji-oglasi my-ads.php [NC,L]
+RewriteRule ^politika-privatnosti privacy-policy.php [NC,L]
+RewriteRule ^uslovi-korišćenja terms-conditions.php [NC,L]
+RewriteRule ^faq faq.php [NC,L]
+RewriteRule ^moj-nalog my-account.php [NC,L]
+RewriteRule ^promena-naloga change-account.php [NC,L]
+RewriteRule ^brisanje-naloga delete-account.php [NC,L]
+RewriteRule ^reklamiranje advertising.php [NC,L]
+RewriteRule ^promeni-oglas/([0-9]+) change-ads.php?id=$1 [NC,L]
+
+# Follow symbolic links.
+Options +FollowSymLinks
+
+# Redirect to domain without www.
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule .* http://%1%{REQUEST_URI} [R=301,L]
+# Same for HTTPS:
+RewriteCond %{HTTPS} on
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule .* https://%1%{REQUEST_URI} [R=301,L]
+
+# Add Caching.
+<FilesMatch ".(ico|jpg|jpeg|png|gif|js|css|swf)$">
+    Header set Cache-Control "max-age=600"
+</FilesMatch>
+
+
+# Custom error pages.
+ErrorDocument 404 http://localhost/strana-nije-pronađena
+
+
+# Prevent viewing of htaccess file.
+<Files .htaccess>
+    order allow,deny
+    deny from all
+</Files>
+
+# Prevent directory listings
+Options All -Indexes
+
+# Compress text, html, javascript, css, xml:
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript

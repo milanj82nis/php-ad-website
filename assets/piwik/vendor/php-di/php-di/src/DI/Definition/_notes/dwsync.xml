@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractFunctionCallDefinition.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="AliasDefinition.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="ArrayDefinition.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="ArrayDefinitionExtension.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="CacheableDefinition.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="DecoratorDefinition.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="Definition.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="EntryReference.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="EnvironmentVariableDefinition.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="FactoryDefinition.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="HasSubDefinition.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="InstanceDefinition.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="ObjectDefinition.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="StringDefinition.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+<file name="ValueDefinition.php" server="31.220.16.239" local="130744371040000000" remote="131177368200000000" Dst="2" />
+</dwsync>

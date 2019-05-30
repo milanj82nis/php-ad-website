@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="assigned.alert.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="message.alert.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="message.autoresp.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="note.alert.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="ticket.activity.notice.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="ticket.alert.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="ticket.autoreply.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="ticket.autoresp.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="ticket.notice.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="ticket.overdue.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="transfer.alert.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="ticket.overlimit.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="ticket.reply.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+</dwsync>

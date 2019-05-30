@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="layout.twig" server="31.220.16.239" local="130789495160000000" remote="131177356800000000" Dst="2" />
+<file name="runUpdaterAndExit_done.twig" server="31.220.16.239" local="130846555160000000" remote="131177356800000000" Dst="2" />
+<file name="newVersionAvailable.twig" server="31.220.16.239" local="130812515880000000" remote="131177356800000000" Dst="2" />
+<file name="runUpdaterAndExit_welcome.twig" server="31.220.16.239" local="130761156360000000" remote="131177356800000000" Dst="2" />
+<file name="updateHttpError.twig" server="31.220.16.239" local="130737555900000000" remote="131177356800000000" Dst="2" />
+<file name="updateHttpsError.twig" server="31.220.16.239" local="130737555900000000" remote="131177356800000000" Dst="2" />
+<file name="updateSuccess.twig" server="31.220.16.239" local="131139149160000000" remote="131177356800000000" Dst="2" />
+</dwsync>

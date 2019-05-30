@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="config.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662000000000" Dst="2" />
+<file name="department.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662000000000" Dst="2" />
+<file name="email_template_group.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="file.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="filter.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="form.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="group.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="help_topic.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="list.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="priority.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="organization.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="sequence.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="sla.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="team.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="ticket_status.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+</dwsync>

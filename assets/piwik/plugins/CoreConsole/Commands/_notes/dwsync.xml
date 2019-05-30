@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClearCaches.php" server="31.220.16.239" local="130718508960000000" remote="131177355600000000" Dst="2" />
+<file name="CoreArchiver.php" server="31.220.16.239" local="130977862940000000" remote="131177355600000000" Dst="2" />
+<file name="DevelopmentEnable.php" server="31.220.16.239" local="130596069280000000" remote="131177355600000000" Dst="2" />
+<file name="DevelopmentManageTestFiles.php" server="31.220.16.239" local="130596069280000000" remote="131177355600000000" Dst="2" />
+<file name="DevelopmentSyncProcessedSystemTests.php" server="31.220.16.239" local="130846555160000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateAngularDirective.php" server="31.220.16.239" local="130596069280000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateApi.php" server="31.220.16.239" local="130596069280000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateArchiver.php" server="31.220.16.239" local="130923401680000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateCommand.php" server="31.220.16.239" local="130596069280000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateController.php" server="31.220.16.239" local="130596069280000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateDimension.php" server="31.220.16.239" local="130953496120000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateMenu.php" server="31.220.16.239" local="130596069280000000" remote="131177355600000000" Dst="2" />
+<file name="GeneratePlugin.php" server="31.220.16.239" local="130972373340000000" remote="131177355600000000" Dst="2" />
+<file name="GeneratePluginBase.php" server="31.220.16.239" local="130923401680000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateReport.php" server="31.220.16.239" local="130596069280000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateScheduledTask.php" server="31.220.16.239" local="130596069280000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateSettings.php" server="31.220.16.239" local="130596069280000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateTest.php" server="31.220.16.239" local="130681343120000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateUpdate.php" server="31.220.16.239" local="130898464180000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateVisualizationPlugin.php" server="31.220.16.239" local="130596069280000000" remote="131177355600000000" Dst="2" />
+<file name="GenerateWidget.php" server="31.220.16.239" local="130596069280000000" remote="131177355600000000" Dst="2" />
+<file name="GitCommit.php" server="31.220.16.239" local="131084793120000000" remote="131177355600000000" Dst="2" />
+<file name="GitPull.php" server="31.220.16.239" local="130953496120000000" remote="131177355600000000" Dst="2" />
+<file name="GitPush.php" server="31.220.16.239" local="130609568540000000" remote="131177355600000000" Dst="2" />
+<file name="ManagePlugin.php" server="31.220.16.239" local="131139149160000000" remote="131177355600000000" Dst="2" />
+<file name="WatchLog.php" server="31.220.16.239" local="130681343120000000" remote="131177355600000000" Dst="2" />
+</dwsync>

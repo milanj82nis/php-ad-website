@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregatedMetric.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="API.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="Archiver.php" server="31.220.16.239" local="130596069260000000" remote="131177351400000000" Dst="2" />
+<file name="ComponentFactory.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="ConsoleCommand.php" server="31.220.16.239" local="131021459760000000" remote="131177351400000000" Dst="2" />
+<file name="Controller.php" server="31.220.16.239" local="130977862940000000" remote="131177351400000000" Dst="2" />
+<file name="ControllerAdmin.php" server="31.220.16.239" local="130989032520000000" remote="131177351400000000" Dst="2" />
+<file name="Dependency.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="LogTablesProvider.php" server="31.220.16.239" local="131129705340000000" remote="131177351400000000" Dst="2" />
+<file name="Menu.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="Manager.php" server="31.220.16.239" local="130999682980000000" remote="131177351400000000" Dst="2" />
+<file name="MetadataLoader.php" server="31.220.16.239" local="130812515880000000" remote="131177351400000000" Dst="2" />
+<file name="Metric.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="PluginException.php" server="31.220.16.239" local="130923401680000000" remote="131177351400000000" Dst="2" />
+<file name="ProcessedMetric.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="ReleaseChannels.php" server="31.220.16.239" local="130874949660000000" remote="131177351400000000" Dst="2" />
+<file name="Report.php" server="31.220.16.239" local="131084793120000000" remote="131177351400000000" Dst="2" />
+<file name="Segment.php" server="31.220.16.239" local="130929357420000000" remote="131177351400000000" Dst="2" />
+<file name="RequestProcessors.php" server="31.220.16.239" local="130929357420000000" remote="131177351400000000" Dst="2" />
+<file name="Settings.php" server="31.220.16.239" local="130791977620000000" remote="131177351400000000" Dst="2" />
+<file name="Tasks.php" server="31.220.16.239" local="131084793120000000" remote="131177351400000000" Dst="2" />
+<file name="ViewDataTable.php" server="31.220.16.239" local="131084793120000000" remote="131177351400000000" Dst="2" />
+<file name="Visualization.php" server="31.220.16.239" local="130929357420000000" remote="131177351400000000" Dst="2" />
+<file name="Widgets.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+</dwsync>

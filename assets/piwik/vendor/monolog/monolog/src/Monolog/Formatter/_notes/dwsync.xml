@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ChromePHPFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="ElasticaFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="FlowdockFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="FluentdFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="FormatterInterface.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="GelfMessageFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="HtmlFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="JsonFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="LineFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="LogglyFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="LogstashFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="MongoDBFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="NormalizerFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="ScalarFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+<file name="WildfireFormatter.php" server="31.220.16.239" local="131119777300000000" remote="131177367600000000" Dst="2" />
+</dwsync>

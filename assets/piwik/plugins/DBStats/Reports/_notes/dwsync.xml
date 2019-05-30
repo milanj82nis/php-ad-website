@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Base.php" server="31.220.16.239" local="130795482420000000" remote="131177357400000000" Dst="2" />
+<file name="GetAdminDataSummary.php" server="31.220.16.239" local="130596069280000000" remote="131177357400000000" Dst="2" />
+<file name="GetDatabaseUsageSummary.php" server="31.220.16.239" local="130596069280000000" remote="131177357400000000" Dst="2" />
+<file name="GetIndividualMetricsSummary.php" server="31.220.16.239" local="131084793120000000" remote="131177357400000000" Dst="2" />
+<file name="GetIndividualReportsSummary.php" server="31.220.16.239" local="131084793120000000" remote="131177357400000000" Dst="2" />
+<file name="GetMetricDataSummary.php" server="31.220.16.239" local="130761156360000000" remote="131177357400000000" Dst="2" />
+<file name="GetMetricDataSummaryByYear.php" server="31.220.16.239" local="130795482420000000" remote="131177357400000000" Dst="2" />
+<file name="GetReportDataSummary.php" server="31.220.16.239" local="130761156360000000" remote="131177357400000000" Dst="2" />
+<file name="GetReportDataSummaryByYear.php" server="31.220.16.239" local="130795482420000000" remote="131177357400000000" Dst="2" />
+<file name="GetTrackerDataSummary.php" server="31.220.16.239" local="130596069280000000" remote="131177357400000000" Dst="2" />
+</dwsync>

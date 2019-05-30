@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuthenticationFailedException.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="DatabaseSchemaIsNewerThanCodebaseException.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="Exception.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="ErrorException.php" server="31.220.16.239" local="130813954360000000" remote="131177351400000000" Dst="2" />
+<file name="InvalidRequestParameterException.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="MissingFilePermissionException.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="NoPrivilegesException.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="NotYetInstalledException.php" server="31.220.16.239" local="131135884280000000" remote="131177351400000000" Dst="2" />
+<file name="NoWebsiteFoundException.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="UnexpectedWebsiteFoundException.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="31.220.16.239" local="130006068520000000" remote="131177368800000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="31.220.16.239" local="130006068520000000" remote="131177368800000000" Dst="2" />
+<file name="LoggerAwareInterface.php" server="31.220.16.239" local="130006068520000000" remote="131177368800000000" Dst="2" />
+<file name="LoggerAwareTrait.php" server="31.220.16.239" local="130006068520000000" remote="131177368800000000" Dst="2" />
+<file name="LoggerInterface.php" server="31.220.16.239" local="130006068520000000" remote="131177368800000000" Dst="2" />
+<file name="LoggerTrait.php" server="31.220.16.239" local="130006068520000000" remote="131177368800000000" Dst="2" />
+<file name="LogLevel.php" server="31.220.16.239" local="130006068520000000" remote="131177368800000000" Dst="2" />
+<file name="NullLogger.php" server="31.220.16.239" local="130006068520000000" remote="131177368800000000" Dst="2" />
+</dwsync>

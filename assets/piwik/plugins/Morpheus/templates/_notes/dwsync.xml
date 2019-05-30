@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="admin.twig" server="31.220.16.239" local="131139149160000000" remote="131177361000000000" Dst="2" />
+<file name="dashboard.twig" server="31.220.16.239" local="130977862940000000" remote="131177361000000000" Dst="2" />
+<file name="ajaxMacros.twig" server="31.220.16.239" local="131139149160000000" remote="131177361000000000" Dst="2" />
+<file name="empty.twig" server="31.220.16.239" local="130596069280000000" remote="131177361000000000" Dst="2" />
+<file name="demo.twig" server="31.220.16.239" local="130887675900000000" remote="131177361000000000" Dst="2" />
+<file name="genericForm.twig" server="31.220.16.239" local="130797289980000000" remote="131177361000000000" Dst="2" />
+<file name="javascriptCode.tpl" server="31.220.16.239" local="131129705340000000" remote="131177361000000000" Dst="2" />
+<file name="layout.twig" server="31.220.16.239" local="131135769420000000" remote="131177361000000000" Dst="2" />
+<file name="macros.twig" server="31.220.16.239" local="130870725660000000" remote="131177361000000000" Dst="2" />
+<file name="maintenance.tpl" server="31.220.16.239" local="130789495160000000" remote="131177361000000000" Dst="2" />
+<file name="settingsMacros.twig" server="31.220.16.239" local="130891268760000000" remote="131177361000000000" Dst="2" />
+<file name="simpleLayoutFooter.tpl" server="31.220.16.239" local="130737555900000000" remote="131177361000000000" Dst="2" />
+<file name="simpleLayoutHeader.tpl" server="31.220.16.239" local="130789495160000000" remote="131177361000000000" Dst="2" />
+<file name="user.twig" server="31.220.16.239" local="131139149160000000" remote="131177361000000000" Dst="2" />
+<file name="_iframeBuster.twig" server="31.220.16.239" local="130596069280000000" remote="131177361000000000" Dst="2" />
+<file name="_jsCssIncludes.twig" server="31.220.16.239" local="130782441420000000" remote="131177361000000000" Dst="2" />
+<file name="_jsGlobalVariables.twig" server="31.220.16.239" local="130891268760000000" remote="131177361000000000" Dst="2" />
+<file name="_sparklineFooter.twig" server="31.220.16.239" local="130596069280000000" remote="131177361000000000" Dst="2" />
+</dwsync>

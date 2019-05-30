@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="dashboard.dashboard.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="dashboard.my_profile.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="dashboard.staff_directory.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="dashboard.system_logs.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="emails.banlist.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="emails.diagnostic.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="emails.email.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="emails.template.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="forms.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="install.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="knowledgebase.canned_response.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="knowledgebase.category.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="knowledgebase.faq.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="manage.api_keys.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="manage.custom_list.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="manage.filter.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="manage.helptopic.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="manage.pages.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="manage.sla.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="settings.access.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="settings.alerts.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="settings.autoresponder.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="settings.email.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="settings.kb.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="settings.pages.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="settings.system.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="settings.ticket.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="staff.agent.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="staff.agents.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="staff.department.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="staff.departments.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="staff.groups.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="staff.team.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="staff.staff_members.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="staff.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+<file name="tickets.queue.yaml" server="31.220.16.239" local="131101357580000000" remote="131167662600000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ActionType.php" server="31.220.16.239" local="130989032520000000" remote="131177355000000000" Dst="2" />
+<file name="ActionUrl.php" server="31.220.16.239" local="130929357420000000" remote="131177355000000000" Dst="2" />
+<file name="ClickedUrl.php" server="31.220.16.239" local="130887675900000000" remote="131177355000000000" Dst="2" />
+<file name="DestinationPage.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="DownloadUrl.php" server="31.220.16.239" local="130887675900000000" remote="131177355000000000" Dst="2" />
+<file name="EntryPageTitle.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="EntryPageUrl.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="ExitPageTitle.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="ExitPageUrl.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="Keyword.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="KeywordwithNoSearchResult.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="PageTitle.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="PageUrl.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="SearchCategory.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="SearchDestinationPage.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="SearchKeyword.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="SearchNoResultKeyword.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="TimeSpentRefAction.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="VisitTotalActions.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+<file name="VisitTotalSearches.php" server="31.220.16.239" local="130596069280000000" remote="131177355000000000" Dst="2" />
+</dwsync>

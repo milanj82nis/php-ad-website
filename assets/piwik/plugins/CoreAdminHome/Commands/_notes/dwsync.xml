@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FixDuplicateLogActions.php" server="31.220.16.239" local="130892362540000000" remote="131177355600000000" Dst="2" />
+<file name="DeleteLogsData.php" server="31.220.16.239" local="130939764920000000" remote="131177355600000000" Dst="2" />
+<file name="InvalidateReportData.php" server="31.220.16.239" local="130892362540000000" remote="131177355600000000" Dst="2" />
+<file name="OptimizeArchiveTables.php" server="31.220.16.239" local="130895457640000000" remote="131177355600000000" Dst="2" />
+<file name="PurgeOldArchiveData.php" server="31.220.16.239" local="130737555900000000" remote="131177355600000000" Dst="2" />
+<file name="RunScheduledTasks.php" server="31.220.16.239" local="130797289980000000" remote="131177355600000000" Dst="2" />
+<file name="SetConfig.php" server="31.220.16.239" local="130951847400000000" remote="131177355600000000" Dst="2" />
+</dwsync>

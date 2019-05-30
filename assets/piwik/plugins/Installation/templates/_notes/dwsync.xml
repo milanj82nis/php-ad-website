@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="cannotConnectToDb.twig" server="31.220.16.239" local="130596069280000000" remote="131177359800000000" Dst="2" />
+<file name="databaseSetup.twig" server="31.220.16.239" local="130782441420000000" remote="131177359800000000" Dst="2" />
+<file name="finished.twig" server="31.220.16.239" local="131139149160000000" remote="131177359800000000" Dst="2" />
+<file name="firstWebsiteSetup.twig" server="31.220.16.239" local="130782441420000000" remote="131177359800000000" Dst="2" />
+<file name="layout.twig" server="31.220.16.239" local="130953496120000000" remote="131177359800000000" Dst="2" />
+<file name="reuseTables.twig" server="31.220.16.239" local="130789495160000000" remote="131177359800000000" Dst="2" />
+<file name="setupSuperUser.twig" server="31.220.16.239" local="130782441420000000" remote="131177359800000000" Dst="2" />
+<file name="systemCheck.twig" server="31.220.16.239" local="130851815100000000" remote="131177359800000000" Dst="2" />
+<file name="systemCheckPage.twig" server="31.220.16.239" local="130870725660000000" remote="131177359800000000" Dst="2" />
+<file name="tablesCreation.twig" server="31.220.16.239" local="130782441420000000" remote="131177359800000000" Dst="2" />
+<file name="trackingCode.twig" server="31.220.16.239" local="130782441420000000" remote="131177359800000000" Dst="2" />
+<file name="welcome.twig" server="31.220.16.239" local="130782441420000000" remote="131177359800000000" Dst="2" />
+<file name="_integrityDetails.twig" server="31.220.16.239" local="130737555900000000" remote="131177359800000000" Dst="2" />
+<file name="_systemCheckLegend.twig" server="31.220.16.239" local="130851815100000000" remote="131177359800000000" Dst="2" />
+<file name="_systemCheckSection.twig" server="31.220.16.239" local="130851815100000000" remote="131177359800000000" Dst="2" />
+</dwsync>

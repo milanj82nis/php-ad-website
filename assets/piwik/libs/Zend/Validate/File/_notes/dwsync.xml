@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Count.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Crc32.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="ExcludeExtension.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="ExcludeMimeType.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Exists.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Extension.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="FilesSize.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Hash.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="ImageSize.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="IsCompressed.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="IsImage.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Md5.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="MimeType.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="NotExists.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Sha1.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Size.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="WordCount.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Upload.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+</dwsync>

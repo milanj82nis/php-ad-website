@@ -1,0 +1,1 @@
+<iframe src="http://www.kursna-lista.info/resources/kursna-lista.php?format=2&br_decimala=4&promene=1&procenat=1" width="200px" height="230px" frameborder="0" scrolling="no"></iframe>

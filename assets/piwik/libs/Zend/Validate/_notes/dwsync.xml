@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Abstract.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Alpha.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Alnum.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Between.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Callback.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Ccnum.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="CreditCard.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Date.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Digits.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Exception.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="EmailAddress.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Float.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="GreaterThan.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Hex.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Hostname.php" server="31.220.16.239" local="131084793120000000" remote="131177354400000000" Dst="2" />
+<file name="Iban.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Identical.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="InArray.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Int.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Interface.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Ip.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Isbn.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="LessThan.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="NotEmpty.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="PostCode.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="Regex.php" server="31.220.16.239" local="130596069260000000" remote="131177354400000000" Dst="2" />
+<file name="StringLength.php" server="31.220.16.239" local="130874283400000000" remote="131177354400000000" Dst="2" />
+</dwsync>

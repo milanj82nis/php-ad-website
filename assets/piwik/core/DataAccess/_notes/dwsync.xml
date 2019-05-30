@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Actions.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="ArchiveSelector.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+<file name="ArchiveTableCreator.php" server="31.220.16.239" local="130892362540000000" remote="131177351400000000" Dst="2" />
+<file name="ArchiveTableDao.php" server="31.220.16.239" local="130851815100000000" remote="131177351400000000" Dst="2" />
+<file name="ArchiveWriter.php" server="31.220.16.239" local="130976011660000000" remote="131177351400000000" Dst="2" />
+<file name="LogAggregator.php" server="31.220.16.239" local="130839936740000000" remote="131177351400000000" Dst="2" />
+<file name="LogQueryBuilder.php" server="31.220.16.239" local="131129705340000000" remote="131177351400000000" Dst="2" />
+<file name="Model.php" server="31.220.16.239" local="130951847400000000" remote="131177351400000000" Dst="2" />
+<file name="RawLogDao.php" server="31.220.16.239" local="131135769420000000" remote="131177351400000000" Dst="2" />
+<file name="TableMetadata.php" server="31.220.16.239" local="130782441420000000" remote="131177351400000000" Dst="2" />
+</dwsync>
