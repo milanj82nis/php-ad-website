@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<dwsync>
-<file name="adminIndex.twig" server="31.220.16.239" local="130870725660000000" remote="131177364600000000" Dst="2" />
-<file name="index.twig" server="31.220.16.239" local="130891268760000000" remote="131177364600000000" Dst="2" />
-<file name="getGeoIpUpdaterManageScreen.twig" server="31.220.16.239" local="130596069280000000" remote="131177364600000000" Dst="2" />
-<file name="_updaterManage.twig" server="31.220.16.239" local="130851815100000000" remote="131177364600000000" Dst="2" />
-<file name="_updaterNextRunTime.twig" server="31.220.16.239" local="130596069280000000" remote="131177364600000000" Dst="2" />
-</dwsync>

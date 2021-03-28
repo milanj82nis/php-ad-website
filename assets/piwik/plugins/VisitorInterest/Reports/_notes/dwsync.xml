@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<dwsync>
-<file name="Base.php" server="31.220.16.239" local="130596069280000000" remote="131177367000000000" Dst="2" />
-<file name="GetNumberOfVisitsByDaysSinceLast.php" server="31.220.16.239" local="130711650660000000" remote="131177367000000000" Dst="2" />
-<file name="GetNumberOfVisitsByVisitCount.php" server="31.220.16.239" local="130711650660000000" remote="131177367000000000" Dst="2" />
-<file name="GetNumberOfVisitsPerPage.php" server="31.220.16.239" local="130711650660000000" remote="131177367000000000" Dst="2" />
-<file name="GetNumberOfVisitsPerVisitDuration.php" server="31.220.16.239" local="130711650660000000" remote="131177367000000000" Dst="2" />
-</dwsync>
